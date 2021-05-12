@@ -1,0 +1,7 @@
+
+.bg-rock{
+  height: 33vw;
+  display:flex;
+  background-size: cover;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQBt9zWb89mlihS6PcIiCBNuT_hY0Ej7iQjg&usqp=CAU);
+}
